@@ -107,7 +107,9 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Harsh Singh**
+
 🔗 GitHub: https://github.com/HaRsH00000007
+
 🔗 LinkedIn: https://www.linkedin.com/in/harsh-singh-b225371a7/
 
 ---
